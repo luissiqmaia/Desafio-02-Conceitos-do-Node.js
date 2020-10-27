@@ -12,7 +12,7 @@ const { isUuid } = require("uuidv4");
 const app = express();
 
 //Definição da porta
-app.set('PORT', 3334);
+app.set('PORT', 3333);
 
 //Definição do Express.JSON() como middleware do app para interceptação de JSON 
 app.use(express.json());
