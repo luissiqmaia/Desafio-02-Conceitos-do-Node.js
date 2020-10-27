@@ -54,8 +54,7 @@ describe("Repositories", () => {
         title: "Umbriel",
         techs: ["Node", "Express", "TypeScript"]
       });
-
-    const response = await request(app)
+      const response = await request(app)
       .put(`/repositories/${repository.body.id}`)
       .send({
         url: "https://github.com/Rocketseat/unform",
