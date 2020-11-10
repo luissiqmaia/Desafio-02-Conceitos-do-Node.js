@@ -6,7 +6,7 @@
   Challenge Two: NodeJS Concepts
 </h3>
 
-<blockquote align="center">“The planting is optional, but the sowing is mandatory!”!</blockquote>
+<blockquote align="center">“The planting is optional, but the sowing is mandatory!”</blockquote>
 
 <p align="center">
   
@@ -20,7 +20,7 @@
   
   <h3 align="center">
   
-   ## &rightarrow; Starting the application
+   ## &rightarrow; Starting with the application
   </h3>
   
   #### Model of application
@@ -43,22 +43,22 @@
   <img src="https://github.com/luissiqmaia/Desafio-Rocketseat---Back-end-em-NodeJS/blob/master/images/2)%20server.png" alt="Server.js" width="1200"/>
   
   <h4 align="center">
-    - Create repositorie using Insomnia - 
+    - Creating repositorie using Insomnia - 
   </h4>
   <img src="https://github.com/luissiqmaia/Desafio-Rocketseat---Back-end-em-NodeJS/blob/master/images/3)%20Create.png" alt="Route/Create.js" width="1200"/>
   
   <h4 align="center">
-    - List repositories using Insomnia - 
+    - Listing repositories using Insomnia - 
   </h4>
   <img src="https://github.com/luissiqmaia/Desafio-Rocketseat---Back-end-em-NodeJS/blob/master/images/4)%20List.png" alt="Route/List.js" width="1200"/>
   
   <h4 align="center">
-    - Update repositorie by Id using Insomnia - 
+    - Updating repositorie by Id using Insomnia - 
   </h4>
   <img src="https://github.com/luissiqmaia/Desafio-Rocketseat---Back-end-em-NodeJS/blob/master/images/5)%20Update.png" alt="Route/Update.js" width="1200"/>
   
   <h4 align="center">
-    - Delete repositorie by Id using Insomnia - 
+    - Deleting repositorie by Id using Insomnia - 
   </h4>
   <img src="https://github.com/luissiqmaia/Desafio-Rocketseat---Back-end-em-NodeJS/blob/master/images/6)%20Delete.png" alt="Route/Delete.js" width="1200"/>
 
