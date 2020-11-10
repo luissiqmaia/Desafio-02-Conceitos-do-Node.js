@@ -16,7 +16,9 @@
   </h3>
   
   #### Descrição
-  Essa é uma aplicação que usa o Framework Express para demonstra o armazenamento de repositórios de um portfólio. A aplicação permite criar, ler, atualizar e excluir os repositórios e permite que eles recebam "likes".
+  Essa é uma aplicação que usa o Framework Express para demonstra o armazenamento de repositórios de um portfólio. A aplicação permite criar, ler, atualizar e excluir os repositórios e permite que eles recebam "likes". 
+  
+  Durante o desenvolvimento dela foi utilizada a biblioteca **Nodemon** como dependência durante o desenvolvimento da aplicação, visto que ela monitora as alterações efetuadas no código e realiza o reinício automático do projeto executado.
   
   <h3 align="center">
   
