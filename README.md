@@ -1,18 +1,18 @@
 <h1 align="center">
-  Desafio Bootcamp GoStack11&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Challenge Bootcamp GoStack11
+  Desafio Bootcamp GoStack11&nbsp;&nbsp;|&nbsp;&nbsp;Challenge Bootcamp GoStack11
 </h1>
 
 <h3 align="center">
-  Desafio 02: Conceitos do Node.js&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Challenge Two: NodeJS Concepts
+  Desafio 02: Conceitos do Node.js&nbsp;&nbsp;|&nbsp;&nbsp;Challenge Two: NodeJS Concepts
 </h3>
 
-<blockquote align="center">“Plante e depois espere... apenas tenha paciência para colher”!</blockquote>
+<blockquote align="center">“O plantio é opcional, mas a semeadura é obrigatória!”!</blockquote>
 
 <p align="center">
   
   <h3 align="center">
   
-   ## &rightarrow; Sobre o desafio&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;About of challenge
+   ## &rightarrow; Sobre o desafio&nbsp;&nbsp;|&nbsp;&nbsp;About of challenge
   </h3>
   
   #### Descrição
