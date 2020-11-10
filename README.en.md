@@ -17,6 +17,7 @@
   
   #### Description
   This is an application that uses Framework Express to demonstrate the storage of repositories of a portfolio. The application allows you to create, read, update and delete the repositories and allows them to receive "likes".
+  During the development of application the library **Nodemon** was used as dependency to monitor the changes made in the code and performs the automic restart of the developed project.
   
   <h3 align="center">
   
