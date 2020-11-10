@@ -29,7 +29,7 @@
   Após clonar o modelo da aplicação execute um dos seguintes comandos na interface de linha de comando para instalar todas as dependências do projeto, conforme o pacote de gerenciamento instalado: **yarn** ou **npm install**. Por padrão, a aplicação será executada utilizando a porta **3333**. Caso deseje altera-lá, acesse o arquivo **app.js** na pasta pricipal do projeto para executar essa ação.
   
   #### Model of application
-  After cloning the application template carry out one of following commands in the Command Line Interface (CLI) to install all project dependencies, according to the installed pack management: **yarn** ou **npm install**. By default, the application will be carry out using the door **3333**. If you want change it, access the file **app.js** in project rrot folder project for carry out this action.
+  After cloning the application template carry out one of following commands in the Command Line Interface (CLI) to install all project dependencies, according to the installed pack management: **yarn** ou **npm install**. By default, the application will be carry out using the door **3333**. If you want change it, access the file **app.js** in project root folder project for carry out this action.
   
   <h3 align="center">
   
