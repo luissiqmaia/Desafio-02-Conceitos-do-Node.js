@@ -63,6 +63,7 @@
   </h4>
   <img src="https://github.com/luissiqmaia/Desafio-Rocketseat---Back-end-em-NodeJS/blob/master/images/6)%20Delete.png" alt="Route/Delete.js" width="1200"/>
 
-  ##### &rightarrow; To learn more about this challenge visit: https://github.com/rocketseat-education/bootcamp-gostack-desafios/blob/master/desafio-conceitos-nodejs/README.md#calendar-entrega
+  ##### &rightarrow; Para mais informações acerca deste desafio visite: https://github.com/rocketseat-education/bootcamp-gostack-desafios/blob/master/desafio-conceitos-nodejs/README.md#calendar-entrega
+  
 </p>
 
