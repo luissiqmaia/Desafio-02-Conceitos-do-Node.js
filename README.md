@@ -6,7 +6,7 @@
   Desafio 02: Conceitos do Node.js
 </h3>
 
-<blockquote align="center">“O plantio é opcional, mas a semeadura é obrigatória!”!</blockquote>
+<blockquote align="center">“O plantio é opcional, mas a semeadura é obrigatória!”</blockquote>
 
 <p align="center">
   
