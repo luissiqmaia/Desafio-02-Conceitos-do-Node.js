@@ -6,7 +6,7 @@
   Desafio 02: Conceitos do Node.js
 </h3>
 
-<blockquote align="center">“O plantio é opcional, mas a semeadura é obrigatória!”!</blockquote>
+<blockquote align="center">“O plantio é opcional, mas a semeadura é obrigatória!”</blockquote>
 
 <p align="center">
   
@@ -25,7 +25,7 @@
   </h3>
   
   #### Modelo da aplicação
-  Após clonar o modelo da aplicação execute um dos seguintes comandos na interface de linha de comando para instalar todas as dependências do projeto, conforme o pacote de gerenciamento instalado: **yarn** ou **npm install**. Por padrão, a aplicação será executada utilizando a porta **3333**. Caso deseje altera-lá, acesse o arquivo **app.js** na pasta pricipal do projeto para executar essa ação.
+  Após clonar o modelo da aplicação, execute um dos seguintes comandos na interface de linha de comando para instalar todas as dependências do projeto, conforme o pacote de gerenciamento instalado: **yarn** ou **npm install**. Por padrão, a aplicação será executada utilizando a porta **3333**. Caso deseje altera-lá, acesse o arquivo **app.js** na pasta pricipal do projeto para executar essa ação.
   
   <h3 align="center">
   

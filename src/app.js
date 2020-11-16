@@ -31,7 +31,11 @@ const repositories = [];
  * Retorno: [Lista de repostórios] (200 - OK)
  */
 app.get("/repositories", (request, response) => {
+<<<<<<< HEAD
   return response.json(repositories);
+=======
+   return response.json(repositories);
+>>>>>>> 61aa5ea5fa25dea4941a14b7a076401259fceaad
 });
 
 /**
